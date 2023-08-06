@@ -1,0 +1,75 @@
+create table student(
+id varchar(10) primary key,
+uname varchar(10) not null,
+password varchar(10) not null,
+fname varchar(20),
+lname varchar(20),
+fathername varchar(20),
+class varchar(10),
+age varchar(10),
+DOB varchar(20),
+address varchar(50),
+phone varchar(10),
+email varchar(20)
+)
+
+insert into student values ('101','sharma','123','','','','','','','','','')
+select * from student
+
+drop table qus
+create table qus(
+qusno int,
+qus varchar(150),
+op1 varchar(20),
+op2 varchar(20),
+op3 varchar(20),
+op4 varchar(20),
+ans varchar(20)
+)
+select * from qus
+insert into qus values(1,'ad','a','b','c','d','d');
+
+create table quss(
+qusno int,
+ans varchar(20))
+
+insert into quss values(1,'dd'),(2,'2'),(3,'3'),(4,'22');
+select * from quss
+
+truncate table quss
+
+select count(*) from qus inner join quss on qus.qusno= quss.qusno where qus.ans= quss.ans
+
+
+
+
+
+delete from qus where qusno = 2
+
+select * from qus
+select * from quss
+select count(*) from qus inner join quss on qus.qusno = quss.qusno where qus.ans= quss.ans 
+select * from student
+alter table qus add st_ans varchar(10)
+
+update qus set st_ans = 22 where qusno=1
+
+select count(*) from qus where ans = st_ans
+
+
+delete from qus where qusno = 2
+
+select * from qus
+select * from quss
+select count(*) from qus inner join quss on qus.qusno = quss.qusno where qus.ans= quss.ans 
+select * from student
+alter table qus add st_ans varchar(10)
+
+update qus set st_ans = 22 where qusno=1
+
+select count(*) from qus where ans = st_ans
+select count(*) from qus where ans = st_ans
+
+select * from student
+select * from qus
+delete from	qus where qusno =  2

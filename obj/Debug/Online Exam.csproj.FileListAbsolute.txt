@@ -1,0 +1,73 @@
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Online Exam.dll.config
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Online Exam.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Online Exam.pdb
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csc.exe
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csc.exe.config
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csc.rsp
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csi.exe
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csi.exe.config
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\csi.rsp
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.AppContext.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Console.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.IO.Compression.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Net.Http.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.ValueTuple.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\vbc.exe
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\vbc.exe.config
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\vbc.rsp
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Antlr3.Runtime.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Newtonsoft.Json.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\System.Web.Optimization.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\WebGrease.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\System.Web.Optimization.xml
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Newtonsoft.Json.xml
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Antlr3.Runtime.pdb
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bhara\source\repos\Online Exam\Online Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhara\source\repos\Online Exam\Online Exam\obj\Debug\Online Exam.csproj.AssemblyReference.cache
+C:\Users\bhara\source\repos\Online Exam\Online Exam\obj\Debug\Online Exam.csproj.CoreCompileInputs.cache
+C:\Users\bhara\source\repos\Online Exam\Online Exam\obj\Debug\Online Exam.csproj.CopyComplete
+C:\Users\bhara\source\repos\Online Exam\Online Exam\obj\Debug\Online Exam.dll
+C:\Users\bhara\source\repos\Online Exam\Online Exam\obj\Debug\Online Exam.pdb
